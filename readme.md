@@ -1,1 +1,1 @@
-This section deonstrates the use of keyframes in css. Using keyframes i have build sone loading icons
+This section deonstrates the use of keyframes in css. Using keyframes i have build some loading icons
